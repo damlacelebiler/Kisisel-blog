@@ -1,0 +1,98 @@
+/* header */
+body {
+  width: 80%;
+  padding-left: 10%;
+  padding-right: 10%;
+  background-color: beige;
+}
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+ul.menu {
+  background-color: brown;
+  height: 40px;
+}
+ul.menu li {
+  float: left;
+  height: 40px;
+}
+ul.menu li a {
+  display: block;
+  font-size: 14px;
+  color: antiquewhite;
+  padding: 0 15px;
+  line-height: 40px;
+}
+
+/* Index html */
+
+#first-row img {
+  float: left;
+}
+
+#first-row p {
+  float: left;
+  margin-left: 10px;
+}
+
+#first-row div {
+  float: left;
+  width: 80%;
+  margin-left: 10px;
+}
+
+#second-row img {
+  float: left;
+}
+
+#second-row p {
+  float: left;
+  margin-left: 10px;
+}
+
+#second-row div {
+  float: left;
+  width: 80%;
+  margin-left: 10px;
+}
+
+#third-row img {
+  float: left;
+}
+
+#third-row p {
+  float: left;
+  margin-left: 10px;
+}
+
+#third-row div {
+  float: left;
+  width: 80%;
+  margin-left: 10px;
+}
+
+article {
+  clear: both;
+}
+
+.row {
+  float: left;
+}
+.row p {
+  float: left;
+  margin-left: 10px;
+}
+.row img {
+  float: left;
+}
+.row div {
+  float: left;
+  width: 80%;
+  margin-left: 10px;
+}
